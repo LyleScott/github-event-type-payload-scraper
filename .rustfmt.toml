@@ -1,0 +1,6 @@
+edition = "2018"
+
+comment_width = 100
+
+indent_style = "Visual"
+imports_indent = "Visual"
