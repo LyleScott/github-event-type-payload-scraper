@@ -1,0 +1,12 @@
+[package]
+name = "github_event_type_payload_scraper"
+version = "1.0.0"
+authors = ["Lyle Scott, III <lyle@ls3.io>"]
+
+[dependencies]
+clap = "2.32.0"
+reqwest = "0.9.5"
+scraper = "0.9.0"
+text_io = "0.1.7"
+
+[dev-dependencies]
